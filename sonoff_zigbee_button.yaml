@@ -12,7 +12,7 @@ blueprint:
           filter:
           - manufacturer: eWeLink
             model: WB01
-          - manufacturer: eWeLink
+          - manufacturer: SONOFF
             model: SNZB-01P
           multiple: false
     mode:
