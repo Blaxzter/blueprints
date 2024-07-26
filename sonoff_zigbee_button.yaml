@@ -9,11 +9,6 @@ blueprint:
       description: The button to configure.
       selector:
         device:
-          filter:
-          - manufacturer: eWeLink
-            model: WB01
-          - manufacturer: SONOFF
-            model: SNZB-01P
           multiple: false
     mode:
       name: Automation mode
